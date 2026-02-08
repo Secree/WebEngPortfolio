@@ -1,184 +1,116 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "name":"Jan Jonas G. Sta. Ana",
+    "description":"I'm an aspiring full-stack web developer passionate about building modern, responsive web applications. I enjoy working with both frontend and backend technologies and continuously learning to improve my skills.",
+    "image":"jonasImage.jpg",
+    "bio":"I love working with web technologies and am passionate about creating websites that is pleasing to the eye yet being easy to use as well. My skills is in web development such as HTML, CSS, JavaScript, and frameworks like React and Next.js. I also have experience with backend technologies like Node.js and databases like MongoDB.",
+    "contactmessage":"Let's create something amazing together! Feel free to reach out if you'd like to collaborate on a project or just want to connect.",
+    "email": "jonstaana7@gmail.com",
+    "phone": "",
+    "github":"https://github.com/Secree",
+    "project":"https://github.com/Secree",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://jonasentertainment.vercel.app",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/janjonas.staana/",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jan-jonas-sta-ana-9b38a4240/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Secree",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Passionate about creating modern, responsive web applications using cutting-edge technologies",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Web Development",
+        "degree":"Full Stack Development",
+        "graduated":"2026",
+        "description":"Focused on modern web technologies including React, Next.js, Node.js, MongoDB, and Express.js. Building projects that demonstrate both frontend and backend capabilities."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Personal Projects",
+        "title":"Full Stack Developer",
+        "years":"2026 - Present",
+        "description":"Developing web applications and desktop software using various technologies. Created entertainment platforms, email sending applications, and health-focused Java applications. Working with HTML, CSS, JavaScript, React, Node.js, and MongoDB."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"HTML",
+        "level":"90%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"JavaScript",
+        "level":"85%"
+      },
+      {
+        "name":"React",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Next.js",
+        "level":"75%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Node.js",
+        "level":"75%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"Express.js",
+        "level":"75%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Mirangelica: Health Quest",
+        "category":"Java desktop application promoting healthy computer habits through timed wellness challenges",
+        "image":"../mirangelica.png",
+        "url":"https://github.com/Secree/College-Projects/tree/main/Data%20Structure%20And%20Algorithm"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Email Sender",
+        "category":"Web application for sending emails with Node.js backend and user-friendly interface",
+        "image":"../emailSender.png",
+        "url":"https://github.com/Secree/Email-Sender"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Jonas Entertainment",
+        "category":"Entertainment website for music and games with retro aesthetic",
+        "image":"../jonasentertainment.png",
+        "url":"https://jonasentertainment.vercel.app"
       }
     ]
   }
