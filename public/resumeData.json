@@ -16,7 +16,7 @@
       "zip": ""
     },
     "website": "https://jonasentertainment.vercel.app",
-    "resumedownload":"",
+    "resumedownload":"/Jonas Pogi Resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -39,9 +39,9 @@
     "skillmessage":"Passionate about creating modern, responsive web applications using cutting-edge technologies",
     "education":[
       {
-        "school":"Web Development",
+        "school":"Bulacan State University",
         "degree":"Full Stack Development",
-        "graduated":"2026",
+        "graduated":"2022 - Present",
         "description":"Focused on modern web technologies including React, Next.js, Node.js, MongoDB, and Express.js. Building projects that demonstrate both frontend and backend capabilities."
       }
     ],
@@ -56,11 +56,11 @@
     "skills":[
       {
         "name":"HTML",
-        "level":"90%"
+        "level":"95%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"JavaScript",
@@ -72,11 +72,11 @@
       },
       {
         "name":"Next.js",
-        "level":"75%"
+        "level":"60%"
       },
       {
         "name":"Node.js",
-        "level":"75%"
+        "level":"70%"
       },
       {
         "name":"MongoDB",
@@ -88,7 +88,7 @@
       },
       {
         "name":"Java",
-        "level":"70%"
+        "level":"60%"
       }
     ]
   },

@@ -118,14 +118,14 @@ class Contact extends Component {
               </div>
 
               <div className="widget widget_tweets">
-                <h4 className="widget-title">Latest Tweets</h4>
+                <h4 className="widget-title">Recent Updates</h4>
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Just deployed my latest entertainment website using Next.js and React! 
+                      Check it out at Jonas Entertainment. Building modern web experiences 
+                      one project at a time. 🚀
+                      <a href="https://jonasentertainment.vercel.app"> jonasentertainment.vercel.app</a>
                     </span>
                     <b>
                       <a href="./">2 Days Ago</a>
@@ -133,11 +133,10 @@ class Contact extends Component {
                   </li>
                   <li>
                     <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Working on full-stack development with Node.js, Express, and MongoDB. 
+                      Creating responsive and user-friendly applications. Always learning, 
+                      always building! 💻
+                      <a href="https://github.com/Secree"> github.com/Secree</a>
                     </span>
                     <b>
                       <a href="./">3 Days Ago</a>
